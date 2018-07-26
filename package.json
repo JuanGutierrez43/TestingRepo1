@@ -1,0 +1,19 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuanGutierrez43/TestingRepo1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanGutierrez43/TestingRepo1/issues"
+  },
+  "homepage": "https://github.com/JuanGutierrez43/TestingRepo1#readme",
+  "description": ""
+}
